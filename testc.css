@@ -1,0 +1,12 @@
+body{
+	background-color: #ffeb3b;
+}
+h1 {
+color: gold; font-size: 30px;
+}
+h2 {
+color:darksalmon; font-size: 25px;
+}
+.big {
+text-transform: uppercase;
+}
