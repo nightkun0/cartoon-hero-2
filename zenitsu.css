@@ -17,6 +17,8 @@ header h1 {
 	font-size: 40px;
 	text-transform: uppercase;
 	margin: 3px 0 0;
+	width: auto;
+	height: auto;
 }
 header img {
 	border-radius: 200px;
