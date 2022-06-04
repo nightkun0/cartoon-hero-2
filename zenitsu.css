@@ -2,7 +2,7 @@
 body {
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 25px;
+	font-size: 21px;
 	line-height: 30px;
 	background-color: #fdfdfd;
 }
@@ -13,7 +13,7 @@ header {
 }
 header h1 {
 	color: white;
-	font-size: 30px;
+	font-size: 26px;
 	text-transform: uppercase;
 	margin: 3px 0 0;
 	width: auto;
@@ -26,6 +26,7 @@ header img {
 }
 h1 ,h2 {
 	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: underline;
 }
 main {
  max-width: 800px;
@@ -39,8 +40,9 @@ main img {
 }
 h2 {
 	color: #F58F1A;
-    font-size: 30px;
+    font-size: 25px;
    margin:30px 0px 10px;
+
 }
 p.caption {
 	margin: 0 10px;
